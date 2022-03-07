@@ -36,7 +36,7 @@
   "peerDependencies": {
     "ionic-selectable": "^4.5.2",
     "google-libphonenumber": "^3.2.6",
-    "flag-icons": "^4.1.4"
+    "flag-icons": "^6.1.1"
   },
   "devDependencies": {
     "@types/google-libphonenumber": "^7.4.17"
